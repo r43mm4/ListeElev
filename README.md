@@ -17,7 +17,7 @@ EleveConnect est une application Java qui se connecte à une base de données My
 ## Installation
 1. Clonez ce dépôt :
    ```sh
-   git clone https://github.com/r43mm4/ListeElev.git
+   [git clone https://github.com/r43mm4/ListeElev.git]
    ```
 2. Importez le projet dans votre IDE (Eclipse, IntelliJ, etc.).
 3. Assurez-vous que le pilote JDBC MySQL est bien inclus dans votre projet.
